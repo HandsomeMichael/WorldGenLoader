@@ -1,0 +1,11 @@
+World Gen Loader is a mod that let you load modded world gen using an item or command
+
+usefull if you wanted to play new mod that add new worldgen in an existing world or just playing around
+
+will not work with mod that does il edit / directly modify vanilla world gen code
+
+also comes with a few more experimental commands
+
+Changelog :
+
+v.1.0 - initial release

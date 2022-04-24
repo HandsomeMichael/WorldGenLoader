@@ -1,0 +1,3 @@
+displayName = World Gen Loader
+author = Lasthue or Neko
+version = 0.1
